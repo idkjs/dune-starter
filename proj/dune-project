@@ -1,0 +1,11 @@
+(lang dune 2.0)
+
+(name proj)
+
+; optional
+
+(version 0.0.0)
+
+(formatting disabled)
+
+; optional
